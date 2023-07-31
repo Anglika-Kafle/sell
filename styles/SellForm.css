@@ -1,0 +1,10 @@
+.textarea {
+    width: 400px;
+    height: 200px;
+    border-color: black;
+    border-width: 2px;
+}
+
+.dec {
+    margin: 5px;
+}
